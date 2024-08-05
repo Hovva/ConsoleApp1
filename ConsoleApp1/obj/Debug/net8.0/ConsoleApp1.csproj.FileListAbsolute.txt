@@ -3,8 +3,6 @@ C:\Users\danul\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp
 C:\Users\danul\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
 C:\Users\danul\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
 C:\Users\danul\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
-C:\Users\danul\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ClassLibrary1.dll
-C:\Users\danul\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ClassLibrary1.pdb
 C:\Users\danul\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
 C:\Users\danul\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\danul\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
@@ -18,3 +16,4 @@ C:\Users\danul\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp
 C:\Users\danul\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
 C:\Users\danul\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\GeometryLibriary.dll
 C:\Users\danul\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\GeometryLibriary.pdb
+C:\Users\danul\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json

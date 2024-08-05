@@ -32,6 +32,15 @@ foreach (var v in figures)
     Console.WriteLine("==========================");
 }
 
+try
+{
+    var t = new Triangle(1, 2, 5);
+}
+catch (Exception e)
+{
+    Console.WriteLine(e.Message);
+}
+
 
 
 

@@ -8,16 +8,10 @@
     ".NETCoreApp,Version=v8.0": {
       "ConsoleApp1/1.0.0": {
         "dependencies": {
-          "ClassLibrary1": "1.0.0",
           "GeometryLibriary": "1.0.0"
         },
         "runtime": {
           "ConsoleApp1.dll": {}
-        }
-      },
-      "ClassLibrary1/1.0.0": {
-        "runtime": {
-          "ClassLibrary1.dll": {}
         }
       },
       "GeometryLibriary/1.0.0": {
@@ -29,11 +23,6 @@
   },
   "libraries": {
     "ConsoleApp1/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "ClassLibrary1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

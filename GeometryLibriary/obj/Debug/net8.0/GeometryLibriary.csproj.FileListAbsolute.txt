@@ -9,3 +9,4 @@ C:\Users\danul\RiderProjects\ConsoleApp1\GeometryLibriary\obj\Debug\net8.0\Geome
 C:\Users\danul\RiderProjects\ConsoleApp1\GeometryLibriary\obj\Debug\net8.0\refint\GeometryLibriary.dll
 C:\Users\danul\RiderProjects\ConsoleApp1\GeometryLibriary\obj\Debug\net8.0\GeometryLibriary.pdb
 C:\Users\danul\RiderProjects\ConsoleApp1\GeometryLibriary\obj\Debug\net8.0\ref\GeometryLibriary.dll
+C:\Users\danul\RiderProjects\ConsoleApp1\GeometryLibriary\obj\Debug\net8.0\GeometryLibriary.sourcelink.json
