@@ -1,0 +1,11 @@
+C:\Users\danul\RiderProjects\ConsoleApp1\GeometryLibriary\obj\Debug\net8.0\GeometryLibriary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danul\RiderProjects\ConsoleApp1\GeometryLibriary\obj\Debug\net8.0\GeometryLibriary.AssemblyInfoInputs.cache
+C:\Users\danul\RiderProjects\ConsoleApp1\GeometryLibriary\obj\Debug\net8.0\GeometryLibriary.AssemblyInfo.cs
+C:\Users\danul\RiderProjects\ConsoleApp1\GeometryLibriary\obj\Debug\net8.0\GeometryLibriary.csproj.CoreCompileInputs.cache
+C:\Users\danul\RiderProjects\ConsoleApp1\GeometryLibriary\bin\Debug\net8.0\GeometryLibriary.deps.json
+C:\Users\danul\RiderProjects\ConsoleApp1\GeometryLibriary\bin\Debug\net8.0\GeometryLibriary.dll
+C:\Users\danul\RiderProjects\ConsoleApp1\GeometryLibriary\bin\Debug\net8.0\GeometryLibriary.pdb
+C:\Users\danul\RiderProjects\ConsoleApp1\GeometryLibriary\obj\Debug\net8.0\GeometryLibriary.dll
+C:\Users\danul\RiderProjects\ConsoleApp1\GeometryLibriary\obj\Debug\net8.0\refint\GeometryLibriary.dll
+C:\Users\danul\RiderProjects\ConsoleApp1\GeometryLibriary\obj\Debug\net8.0\GeometryLibriary.pdb
+C:\Users\danul\RiderProjects\ConsoleApp1\GeometryLibriary\obj\Debug\net8.0\ref\GeometryLibriary.dll
