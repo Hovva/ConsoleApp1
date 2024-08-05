@@ -8,7 +8,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj" />
       <ProjectReference Include="..\GeometryLibriary\GeometryLibriary.csproj" />
     </ItemGroup>
 
